@@ -76,47 +76,16 @@ I'm an enthusiastic developer with experience in developing modern web applicati
 
 ## 🎯 Featured Projects
 
-<div align="center">
-
-### 📱 Project 1
-
-![React](https://img.shields.io/badge/React-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)
-
-_Brief description of your awesome project goes here._
-
-[🔗 View Project →](#)
-
----
-
-### 🌐 Project 2
-
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![Tailwind](https://img.shields.io/badge/Tailwind-cyan)
-
-_Brief description of your amazing project goes here._
-
-[🔗 View Project →](#)
-
----
-
-### 🎮 Project 3
-
-![Vue.js](https://img.shields.io/badge/Vue.js-green)
-![Firebase](https://img.shields.io/badge/Firebase-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
-_Brief description of your creative project goes here._
-
-[🔗 View Project →](#)
-
----
-
-**[📂 View More Projects](https://github.com/Kyyjp26?tab=repositories)**
-
-</div>
+|                                                                                                                                                                              |                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **📱 Project 1**                                                                                                                                                             | **🌐 Project 2**                                                                                                                                                           |
+| ![React](https://img.shields.io/badge/React-blue) ![Node.js](https://img.shields.io/badge/Node.js-green) ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)        | ![Next.js](https://img.shields.io/badge/Next.js-black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-cyan) |
+| _Brief description of your awesome project goes here._                                                                                                                       | _Brief description of your amazing project goes here._                                                                                                                     |
+| [🔗 View Project →](#)                                                                                                                                                       | [🔗 View Project →](#)                                                                                                                                                     |
+| **🎮 Project 3**                                                                                                                                                             | **📂 More Projects**                                                                                                                                                       |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-green) ![Firebase](https://img.shields.io/badge/Firebase-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) | Check out my [repositories](https://github.com/Kyyjp26?tab=repositories) for more amazing work!                                                                            |
+| _Brief description of your creative project goes here._                                                                                                                      |                                                                                                                                                                            |
+| [🔗 View Project →](#)                                                                                                                                                       |                                                                                                                                                                            |
 
 ---
 
