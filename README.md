@@ -76,9 +76,7 @@ I'm an enthusiastic developer with experience in developing modern web applicati
 
 ## 🎯 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 📱 Project 1
 
@@ -86,12 +84,11 @@ I'm an enthusiastic developer with experience in developing modern web applicati
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen)
 
-Brief description of your awesome project goes here.
+_Brief description of your awesome project goes here._
 
-[View Project →](#)
+[🔗 View Project →](#)
 
-</td>
-<td width="50%">
+---
 
 ### 🌐 Project 2
 
@@ -99,14 +96,11 @@ Brief description of your awesome project goes here.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![Tailwind](https://img.shields.io/badge/Tailwind-cyan)
 
-Brief description of your amazing project goes here.
+_Brief description of your amazing project goes here._
 
-[View Project →](#)
+[🔗 View Project →](#)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🎮 Project 3
 
@@ -114,20 +108,15 @@ Brief description of your amazing project goes here.
 ![Firebase](https://img.shields.io/badge/Firebase-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-Brief description of your creative project goes here.
+_Brief description of your creative project goes here._
 
-[View Project →](#)
+[🔗 View Project →](#)
 
-</td>
-<td width="50%">
+---
 
-### 📦 More Projects
+**[📂 View More Projects](https://github.com/Kyyjp26?tab=repositories)**
 
-Check out my [repositories](https://github.com/Kyyjp26?tab=repositories) for more!
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -179,10 +168,6 @@ I'm always open to:
 ---
 
 <div align="center">
-
-### 📊 This Week's Contribution
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Kyyjp26&layout=compact&theme=dark)
 
 **Thanks for visiting! Don't forget to give ⭐ to repositories you like!**
 
